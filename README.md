@@ -1,5 +1,5 @@
 # Drawing Using turtle 
-### this program is a python script that uses the 'turtle' module to create visual drawing. it provides a simple and interactive way to create colorful patterns, shapes, and designs using a turtle graphics environment.
+ this program is a python script that uses the 'turtle' module to create visual drawing. it provides a simple and interactive way to create colorful patterns, shapes, and designs using a turtle graphics environment.
 
 # Feature 
     ### - Can utilize the turtle to draw different designs and petterns.
