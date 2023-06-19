@@ -10,5 +10,5 @@
      - Turtle module (included in the python standard library 
  # Result 
      
-     ![image](https://github.com/xmarzz/Drawing/assets/90947733/47f4d700-be3b-4ecf-a0f1-108dd61d44fd.svg)
+     ![image](https://github.com/xmarzz/Drawing/assets/90947733/47f4d700-be3b-4ecf-a0f1-108dd61d44fd)
 
